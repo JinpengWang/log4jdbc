@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/56/trunk/log4jdbc-log4j2-jdbc4.1/src/main/java/net/sf/log4jdbc/log/log4j2/message
+END
+SqlTimingOccurredMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/56/trunk/log4jdbc-log4j2-jdbc4.1/src/main/java/net/sf/log4jdbc/log/log4j2/message/SqlTimingOccurredMessage.java
+END
+SqlMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/56/trunk/log4jdbc-log4j2-jdbc4.1/src/main/java/net/sf/log4jdbc/log/log4j2/message/SqlMessage.java
+END
+ConnectionMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/56/trunk/log4jdbc-log4j2-jdbc4.1/src/main/java/net/sf/log4jdbc/log/log4j2/message/ConnectionMessage.java
+END
+ExceptionOccuredMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/56/trunk/log4jdbc-log4j2-jdbc4.1/src/main/java/net/sf/log4jdbc/log/log4j2/message/ExceptionOccuredMessage.java
+END
+MethodReturnedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/56/trunk/log4jdbc-log4j2-jdbc4.1/src/main/java/net/sf/log4jdbc/log/log4j2/message/MethodReturnedMessage.java
+END

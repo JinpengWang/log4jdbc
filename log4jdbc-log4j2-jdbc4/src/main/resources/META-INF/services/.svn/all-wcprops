@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/100/trunk/log4jdbc-log4j2-jdbc4/src/main/resources/META-INF/services
+END
+java.sql.Driver
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/100/trunk/log4jdbc-log4j2-jdbc4/src/main/resources/META-INF/services/java.sql.Driver
+END

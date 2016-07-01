@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/198/trunk/log4jdbc-log4j2-jdbc4/src/test/java/net/sf/log4jdbc/log/slf4j
+END
+NoSlf4jLoggerIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/150/trunk/log4jdbc-log4j2-jdbc4/src/test/java/net/sf/log4jdbc/log/slf4j/NoSlf4jLoggerIT.java
+END
+TestLoggingFunctionalitesWithSl4j.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/198/trunk/log4jdbc-log4j2-jdbc4/src/test/java/net/sf/log4jdbc/log/slf4j/TestLoggingFunctionalitesWithSl4j.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112/trunk/log4jdbc-log4j2-jdbc4.1/src/test/resources
+END
+test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/106/trunk/log4jdbc-log4j2-jdbc4.1/src/test/resources/test.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/106/trunk/log4jdbc-log4j2-jdbc4.1/src/test/resources/log4j.properties
+END
+log4j2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/112/trunk/log4jdbc-log4j2-jdbc4.1/src/test/resources/log4j2.xml
+END

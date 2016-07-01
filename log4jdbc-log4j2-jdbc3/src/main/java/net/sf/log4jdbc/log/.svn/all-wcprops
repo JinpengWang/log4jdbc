@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/197/trunk/log4jdbc-log4j2-jdbc3/src/main/java/net/sf/log4jdbc/log
+END
+SpyLogDelegator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/197/trunk/log4jdbc-log4j2-jdbc3/src/main/java/net/sf/log4jdbc/log/SpyLogDelegator.java
+END
+SpyLogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/150/trunk/log4jdbc-log4j2-jdbc3/src/main/java/net/sf/log4jdbc/log/SpyLogFactory.java
+END
+AbstractSpyLogDelegator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/197/trunk/log4jdbc-log4j2-jdbc3/src/main/java/net/sf/log4jdbc/log/AbstractSpyLogDelegator.java
+END

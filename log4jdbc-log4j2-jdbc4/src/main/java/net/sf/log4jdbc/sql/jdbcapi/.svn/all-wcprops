@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/197/trunk/log4jdbc-log4j2-jdbc4/src/main/java/net/sf/log4jdbc/sql/jdbcapi
+END
+StatementSpy.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/197/trunk/log4jdbc-log4j2-jdbc4/src/main/java/net/sf/log4jdbc/sql/jdbcapi/StatementSpy.java
+END
+CallableStatementSpy.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/167/trunk/log4jdbc-log4j2-jdbc4/src/main/java/net/sf/log4jdbc/sql/jdbcapi/CallableStatementSpy.java
+END
+PreparedStatementSpy.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/167/trunk/log4jdbc-log4j2-jdbc4/src/main/java/net/sf/log4jdbc/sql/jdbcapi/PreparedStatementSpy.java
+END
+DataSourceSpy.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/191/trunk/log4jdbc-log4j2-jdbc4/src/main/java/net/sf/log4jdbc/sql/jdbcapi/DataSourceSpy.java
+END
+ResultSetSpy.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/172/trunk/log4jdbc-log4j2-jdbc4/src/main/java/net/sf/log4jdbc/sql/jdbcapi/ResultSetSpy.java
+END
+DriverSpy.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/195/trunk/log4jdbc-log4j2-jdbc4/src/main/java/net/sf/log4jdbc/sql/jdbcapi/DriverSpy.java
+END
+ConnectionSpy.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/167/trunk/log4jdbc-log4j2-jdbc4/src/main/java/net/sf/log4jdbc/sql/jdbcapi/ConnectionSpy.java
+END

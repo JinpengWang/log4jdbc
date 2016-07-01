@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/201/trunk/log4jdbc-log4j2-jdbc3/src/main/java/net/sf/log4jdbc/sql/rdbmsspecifics
+END
+RdbmsSpecifics.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/196/trunk/log4jdbc-log4j2-jdbc3/src/main/java/net/sf/log4jdbc/sql/rdbmsspecifics/RdbmsSpecifics.java
+END
+OracleRdbmsSpecifics.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/103/trunk/log4jdbc-log4j2-jdbc3/src/main/java/net/sf/log4jdbc/sql/rdbmsspecifics/OracleRdbmsSpecifics.java
+END
+MySqlRdbmsSpecifics.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/103/trunk/log4jdbc-log4j2-jdbc3/src/main/java/net/sf/log4jdbc/sql/rdbmsspecifics/MySqlRdbmsSpecifics.java
+END
+SqlServerRdbmsSpecifics.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/103/trunk/log4jdbc-log4j2-jdbc3/src/main/java/net/sf/log4jdbc/sql/rdbmsspecifics/SqlServerRdbmsSpecifics.java
+END
+Db2RdbmsSpecifics.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/201/trunk/log4jdbc-log4j2-jdbc3/src/main/java/net/sf/log4jdbc/sql/rdbmsspecifics/Db2RdbmsSpecifics.java
+END

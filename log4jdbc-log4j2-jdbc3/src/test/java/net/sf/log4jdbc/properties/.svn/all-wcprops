@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/103/trunk/log4jdbc-log4j2-jdbc3/src/test/java/net/sf/log4jdbc/properties
+END
+LoadPropertiesFromFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/103/trunk/log4jdbc-log4j2-jdbc3/src/test/java/net/sf/log4jdbc/properties/LoadPropertiesFromFileTest.java
+END
+LoadPropertiesFromSysPropsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/103/trunk/log4jdbc-log4j2-jdbc3/src/test/java/net/sf/log4jdbc/properties/LoadPropertiesFromSysPropsTest.java
+END

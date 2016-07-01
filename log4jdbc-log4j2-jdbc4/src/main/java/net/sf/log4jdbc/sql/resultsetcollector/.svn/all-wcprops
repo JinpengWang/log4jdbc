@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/200/trunk/log4jdbc-log4j2-jdbc4/src/main/java/net/sf/log4jdbc/sql/resultsetcollector
+END
+ResultSetCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/171/trunk/log4jdbc-log4j2-jdbc4/src/main/java/net/sf/log4jdbc/sql/resultsetcollector/ResultSetCollector.java
+END
+JdbcUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/100/trunk/log4jdbc-log4j2-jdbc4/src/main/java/net/sf/log4jdbc/sql/resultsetcollector/JdbcUtils.java
+END
+ResultSetCollectorPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/100/trunk/log4jdbc-log4j2-jdbc4/src/main/java/net/sf/log4jdbc/sql/resultsetcollector/ResultSetCollectorPrinter.java
+END
+DefaultResultSetCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/200/trunk/log4jdbc-log4j2-jdbc4/src/main/java/net/sf/log4jdbc/sql/resultsetcollector/DefaultResultSetCollector.java
+END
