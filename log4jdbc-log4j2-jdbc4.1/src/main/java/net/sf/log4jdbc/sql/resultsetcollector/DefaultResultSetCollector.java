@@ -172,7 +172,8 @@ public class DefaultResultSetCollector implements ResultSetCollector {
                 colNameToColIndex.put(name, column);
                 //get also the table name to resolve calls such as:
                 //rs.getString("myTable.myColumn")
-                String table = metaData.getTableName(column).toLowerCase();
+                String table = metaData.getTableName(column);
+                table = table == null ? "" : table.toLowerCase();
                 colNameToColIndex.put(table + "." + name, column);
                 //not sure whether table name can be mixed with column label,
                 //but just in case...
