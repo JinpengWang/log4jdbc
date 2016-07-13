@@ -28,9 +28,9 @@
                   is 1.7. Otherwise, you need to provide the path to the JDK 1.7 
                   (see for instance the pom.xml in log4jdbc-log4j2-jdbc4, using a JDK 1.6)
                   -->
-                  <source>1.7</source>
-                  <target>1.7</target>
-                  <compilerVersion>1.7</compilerVersion>
+                  <source>1.8</source>
+                  <target>1.8</target>
+                  <compilerVersion>1.8</compilerVersion>
                   <fork>true</fork>
                   <!-- 
                   You need to set up the path to a JDK 1.7 in the Maven settings.xml file, 
@@ -48,13 +48,13 @@
                          <activeProfile>compiler</activeProfile>
                        </activeProfiles>
                    -->
-                  <executable>${JAVA_1_7_HOME}/bin/javac</executable>
+<!--                  <executable>${JAVA_1_7_HOME}/bin/javac</executable>
                   <bootclasspath>${JAVA_1_7_BOOTCLASSPATH}</bootclasspath>
-                  <verbose>true</verbose>
+                  <verbose>true</verbose>-->
               </configuration>
           </plugin>
       </plugins>
       <finalName>log4jdbc-log4j2-jdbc4.1-${project.version}</finalName>
-  </build>  
-  
+  </build>
+
 </project>
